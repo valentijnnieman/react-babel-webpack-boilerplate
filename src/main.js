@@ -5,7 +5,7 @@ import { connect } from 'react-redux'
 
 const Boilerplate = () => {
   return <div>
-      <h1>Boilerplate React!</h1>
+      <h1>Boilerplate React is Cool!</h1>
     </div>
 };
 
