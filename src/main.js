@@ -10,6 +10,6 @@ const Boilerplate = () => {
 };
 
 ReactDOM.render(
-  <Boilerplate />
+  <Boilerplate />,
   document.getElementById('root')
 )
