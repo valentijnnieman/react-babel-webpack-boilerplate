@@ -1,4 +1,13 @@
 # react-babel-webpack-boilerplate
+This is my boilerplate I use for quickly setting up an React/Redux dev enviroment with automated build tools.
+It uses: 
+- React
+- Redux
+- Webpack
+- Webpack dev server (https://github.com/webpack/webpack-dev-server)
+- Webpack SASS loader (https://github.com/webpack-contrib/sass-loader)
+- Babel
+- Jest
 
 # Install:
 `git clone https://github.com/valentijnnieman/react-babel-webpack-boilerplate.git project_name`
