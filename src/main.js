@@ -2,12 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux'
 import { connect } from 'react-redux'
-
-const Boilerplate = () => {
-  return <div>
-      <h1>Boilerplate React is Cool!</h1>
-    </div>
-};
+import Boilerplate from './components/boilerplate.js'
 
 ReactDOM.render(
   <Boilerplate />,
